@@ -22,6 +22,7 @@
 * Multipath cloud federation [CloudNet'17] [PDF](https://research.aalto.fi/files/17110121/EuCNC_extension.pdf)
 * Multipath TCP in Smartphones: Impact on Performance, Energy, and CPU Utilization [MobiWac '17] [PDF](https://cse.buffalo.edu/faculty/dimitrio/publications/mobiwac17.pdf)
 * Threat modeling and circumvention of Internet censorship [PDF](https://cloudfront.escholarship.org/dist/prd/content/qt0bh5c50p/qt0bh5c50p.pdf)
+* Deep Packet: A Novel Approach For Encrypted Traffic Classification Using Deep Learning [PDF](https://arxiv.org/pdf/1709.02656.pdf)
 
 ## 2018
 

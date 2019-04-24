@@ -31,3 +31,7 @@
 * Website Fingerprinting Attack on Anonymity Networks Based on Profile Hidden Markov Model. [TIFS '18] [PDF](https://ieeexplore.ieee.org/abstract/document/8067534)
 * AME Blockchain: An Architecture Design for Closed-Loop Fluid Economy Token System. [PDF](https://arxiv.org/pdf/1812.08017)
 * Pinpoint: fast and precise sparse value flow analysis for million lines of code. [PLDI '18] [PDF](http://www.cs.ust.hk/~charlesz/pinpoint.pdf)
+
+## 2019
+* Flow Context and Host Behavior Based ShadowSocks's Traffic Identification. [IEEE Access] [PDF](https://ieeexplore.ieee.org/iel7/6287639/6514899/08676111.pdf)
+* Mobile Encrypted Traffic Classification Using Deep Learning: Experimental Evaluation, Lessons Learned, and Challenges. [IEEE Transactions on Network and Service Management] [Abstract](https://ieeexplore.ieee.org/abstract/document/8640262)

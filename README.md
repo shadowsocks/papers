@@ -33,5 +33,12 @@
 * Pinpoint: fast and precise sparse value flow analysis for million lines of code. [PLDI '18] [PDF](http://www.cs.ust.hk/~charlesz/pinpoint.pdf)
 
 ## 2019
+
 * Flow Context and Host Behavior Based ShadowSocks's Traffic Identification. [IEEE Access] [PDF](https://ieeexplore.ieee.org/iel7/6287639/6514899/08676111.pdf)
 * Mobile Encrypted Traffic Classification Using Deep Learning: Experimental Evaluation, Lessons Learned, and Challenges. [IEEE Transactions on Network and Service Management] [Abstract](https://ieeexplore.ieee.org/abstract/document/8640262)
+
+## 2020
+
+* Detecting Probe-resistant Proxies. [NDSS'20] [Abstract](https://www.ndss-symposium.org/ndss-paper/detecting-probe-resistant-proxies/)
+* ACER: detecting Shadowsocks server based on active probe technology. [J Comput Virol Hack Tech 16, 217–227 (2020)] [Abstract](https://link.springer.com/article/10.1007/s11416-020-00353-z)
+* HTTPT: A Probe-Resistant Proxy. [FOCI'20] [Abstract](https://www.usenix.org/conference/foci20/presentation/frolov)

@@ -43,3 +43,4 @@
 * ACER: detecting Shadowsocks server based on active probe technology. [J Comput Virol Hack Tech 16, 217–227 (2020)] [Abstract](https://link.springer.com/article/10.1007/s11416-020-00353-z)
 * HTTPT: A Probe-Resistant Proxy. [FOCI'20] [Abstract](https://www.usenix.org/conference/foci20/presentation/frolov)
 * How China Detects and Blocks Shadowsocks. [IMC'20] [Abstract](https://dl.acm.org/doi/abs/10.1145/3419394.3423644)
+* Partitioning Oracle Attacks. [USENIX Security'21] https://www.usenix.org/conference/usenixsecurity21/presentation/len
